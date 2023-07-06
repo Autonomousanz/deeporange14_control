@@ -1,4 +1,4 @@
-prefix=/users/sanskrj/deeporange14_control/install
+prefix=/users/sanskrj/Desktop/deeporange14_control/install
 
 Name: socketcan_interface
 Description: Description of socketcan_interface

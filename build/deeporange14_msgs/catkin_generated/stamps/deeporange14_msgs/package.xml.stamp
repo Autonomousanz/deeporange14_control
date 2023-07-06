@@ -8,7 +8,6 @@
 
   <license>BSD</license>
 
-  <author email="sanskrj@clemson.edu">Sanskruti Jadhav</author>
   <maintainer email="cparedis@clemson.edu">Chris Paredis</maintainer>
 
   <buildtool_depend>catkin</buildtool_depend>

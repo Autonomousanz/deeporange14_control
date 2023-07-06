@@ -1,4 +1,4 @@
-prefix=/users/sanskrj/deeporange14_control/install
+prefix=/users/sanskrj/Desktop/deeporange14_control/install
 
 Name: raptor_dbw_can
 Description: Description of raptor_dbw_can

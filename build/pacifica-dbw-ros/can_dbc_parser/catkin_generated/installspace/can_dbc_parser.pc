@@ -1,4 +1,4 @@
-prefix=/users/sanskrj/deeporange14_control/install
+prefix=/users/sanskrj/Desktop/deeporange14_control/install
 
 Name: can_dbc_parser
 Description: Description of can_dbc_parser
